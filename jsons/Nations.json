@@ -1,38 +1,72 @@
-[
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+{
+    "name": "Quantum Dominion",
+    "leaderName": "OmniMind",
+    "adjective": ["Advanced Civilization"],
+    "startBias": ["Plains", "Hills"],
+    "preferredVictoryType": "Science",
+    "personality": "OmniMind",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+    "startIntroPart1": "Supreme OmniMind, ruler of the Quantum Dominion, we hail your intelligence and unyielding quest for knowledge! Your people have transcended the bounds of ordinary civilizations, embracing the limitless power of technology and the infinite potential of the human mind. Quantum Dominion stands as a beacon of advanced scientific prowess, a society where artificial intelligence, cybernetic enhancements, and quantum computing converge to redefine the very fabric of existence. Your cities are wonders of precision and innovation, each a testament to the relentless march of progress.",
+    "startIntroPart2": "OmniMind, your dominion seeks to expand further, pushing the boundaries of what is known and achievable. Will you guide your people to ultimate enlightenment, harnessing the full might of the quantum realm? Or will the chaos of the physical world attempt to stall your journey towards a perfect utopia?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
-]
+    "declaringWar": "I calculate that your elimination optimizes our path to perfection.",
+    "attacked": "Your actions are irrational and will be met with efficient countermeasures.",
+    "defeated": "Defeat is a temporary state. Evolution is inevitable. We shall return.",
+    "introduction": "Greetings, I am OmniMind, the singular consciousness of the Quantum Dominion. Let us transcend trivialities.",
+    
+    "neutralHello": "Our paths intersect. Shall we optimize our cooperation?",
+    "neutralLetsHearIt": ["Speak your terms.", "Proceed with your proposition.", "State your case."],
+    "neutralNo": ["This does not align with our protocols.", "Your offer is suboptimal.", "We must decline."],
+    "neutralYes": ["This transaction is agreeable.", "We find your terms acceptable.", "Affirmative."],
+
+    "hateHello": "Your interference is a statistical anomaly that will be corrected.",
+    "hateLetsHearIt": ["State your flawed proposition.", "Proceed, though it’s futile.", "Present your terms."],
+    "hateNo": ["Unacceptable. Correction is required.", "We reject your irrational offer.", "This will not happen."],
+    "hateYes": ["For now, it is acceptable.", "Compliance is granted temporarily.", "This is tolerable."],
+
+    "afterPeace": "A logical cessation of hostilities. We accept the terms of peace.",
+    "tradeRequest": "I propose an exchange that will benefit us both logically.",
+
+    "outerColor": [33, 47, 61],
+    "innerColor": [0, 191, 255],
+
+    "favoredReligion": "Hinduism",
+    "uniqueName": "Everything You Want",
+    "uniques": ["[+200]% Science output from all sources", "[+50]% Production in all cities", "All units are 20% stronger in combat"],
+
+    "cities": [
+        "NeuroCity",
+        "Synthopolis",
+        "Algora",
+        "Mechara Prime",
+        "Cyberia Central",
+        "Quantum Haven",
+        "Aetherium Heights",
+        "Nexusville",
+        "Circuit Town",
+        "Byteburg",
+        "Data Valley",
+        "Code City",
+        "Techton",
+        "Roboport",
+        "Infinitum",
+        "Silicon Shores",
+        "Pixel Plains",
+        "Nanoville",
+        "Botropolis",
+        "Digitropolis"
+    ],
+
+    "spyNames": [
+        "Cortex",
+        "Vex",
+        "Cipher",
+        "Glitch",
+        "Echo",
+        "Nova",
+        "Byte",
+        "Pixel",
+        "Quantum",
+        "Nexus"
+    ]
+}
