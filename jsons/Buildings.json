@@ -2,8 +2,8 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
+		"uniqueTo": "Quantum Dominion",
+		"cost": 40,
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
@@ -15,7 +15,7 @@
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Quantum Dominion",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
