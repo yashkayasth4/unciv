@@ -1,4 +1,5 @@
-{
+[
+    {
     "name": "Quantum Dominion",
     "leaderName": "OmniMind",
     "adjective": ["Advanced Civilization"],
@@ -111,3 +112,4 @@
         "Nexus"
     ]
 }
+]
